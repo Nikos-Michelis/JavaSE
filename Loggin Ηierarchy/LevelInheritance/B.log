@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-18T09:39:43.553847500Z</date>
+  <millis>1695029983553</millis>
+  <nanos>847500</nanos>
+  <sequence>0</sequence>
+  <logger>A.B.C</logger>
+  <level>FINEST</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>A finest message on C</message>
+</record>
+</log>

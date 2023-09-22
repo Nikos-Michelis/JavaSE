@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-18T08:41:45.067029300Z</date>
+  <millis>1695026505067</millis>
+  <nanos>29300</nanos>
+  <sequence>0</sequence>
+  <logger>A.B.C</logger>
+  <level>SEVERE</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>error on C</message>
+</record>
+</log>

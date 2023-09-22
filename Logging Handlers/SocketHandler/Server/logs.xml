@@ -1,0 +1,4252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-17T10:19:33.072649Z</date>
+  <millis>1694945973072</millis>
+  <nanos>649000</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 10</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.171385500Z</date>
+  <millis>1694945973171</millis>
+  <nanos>385500</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 9</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.173380900Z</date>
+  <millis>1694945973173</millis>
+  <nanos>380900</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 8</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.175374400Z</date>
+  <millis>1694945973175</millis>
+  <nanos>374400</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 7</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.177369200Z</date>
+  <millis>1694945973177</millis>
+  <nanos>369200</nanos>
+  <sequence>4</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 6</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.180361400Z</date>
+  <millis>1694945973180</millis>
+  <nanos>361400</nanos>
+  <sequence>5</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.182355300Z</date>
+  <millis>1694945973182</millis>
+  <nanos>355300</nanos>
+  <sequence>6</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.184350600Z</date>
+  <millis>1694945973184</millis>
+  <nanos>350600</nanos>
+  <sequence>7</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.185347900Z</date>
+  <millis>1694945973185</millis>
+  <nanos>347900</nanos>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.187342900Z</date>
+  <millis>1694945973187</millis>
+  <nanos>342900</nanos>
+  <sequence>9</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.189336800Z</date>
+  <millis>1694945973189</millis>
+  <nanos>336800</nanos>
+  <sequence>10</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.190334800Z</date>
+  <millis>1694945973190</millis>
+  <nanos>334800</nanos>
+  <sequence>11</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.191331800Z</date>
+  <millis>1694945973191</millis>
+  <nanos>331800</nanos>
+  <sequence>12</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.193326500Z</date>
+  <millis>1694945973193</millis>
+  <nanos>326500</nanos>
+  <sequence>13</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.194323700Z</date>
+  <millis>1694945973194</millis>
+  <nanos>323700</nanos>
+  <sequence>14</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.196318600Z</date>
+  <millis>1694945973196</millis>
+  <nanos>318600</nanos>
+  <sequence>15</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.197316Z</date>
+  <millis>1694945973197</millis>
+  <nanos>316000</nanos>
+  <sequence>16</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.200308600Z</date>
+  <millis>1694945973200</millis>
+  <nanos>308600</nanos>
+  <sequence>17</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.202303600Z</date>
+  <millis>1694945973202</millis>
+  <nanos>303600</nanos>
+  <sequence>18</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.203301Z</date>
+  <millis>1694945973203</millis>
+  <nanos>301000</nanos>
+  <sequence>19</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.204297700Z</date>
+  <millis>1694945973204</millis>
+  <nanos>297700</nanos>
+  <sequence>20</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.206293200Z</date>
+  <millis>1694945973206</millis>
+  <nanos>293200</nanos>
+  <sequence>21</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.208287500Z</date>
+  <millis>1694945973208</millis>
+  <nanos>287500</nanos>
+  <sequence>22</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.209283800Z</date>
+  <millis>1694945973209</millis>
+  <nanos>283800</nanos>
+  <sequence>23</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.210281600Z</date>
+  <millis>1694945973210</millis>
+  <nanos>281600</nanos>
+  <sequence>24</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.211279200Z</date>
+  <millis>1694945973211</millis>
+  <nanos>279200</nanos>
+  <sequence>25</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.212277600Z</date>
+  <millis>1694945973212</millis>
+  <nanos>277600</nanos>
+  <sequence>26</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.213273400Z</date>
+  <millis>1694945973213</millis>
+  <nanos>273400</nanos>
+  <sequence>27</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.215267600Z</date>
+  <millis>1694945973215</millis>
+  <nanos>267600</nanos>
+  <sequence>28</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.216265600Z</date>
+  <millis>1694945973216</millis>
+  <nanos>265600</nanos>
+  <sequence>29</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.218260Z</date>
+  <millis>1694945973218</millis>
+  <nanos>260000</nanos>
+  <sequence>30</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.218260Z</date>
+  <millis>1694945973218</millis>
+  <nanos>260000</nanos>
+  <sequence>31</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.220254700Z</date>
+  <millis>1694945973220</millis>
+  <nanos>254700</nanos>
+  <sequence>32</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.221251700Z</date>
+  <millis>1694945973221</millis>
+  <nanos>251700</nanos>
+  <sequence>33</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.222249300Z</date>
+  <millis>1694945973222</millis>
+  <nanos>249300</nanos>
+  <sequence>34</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 8</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.224245Z</date>
+  <millis>1694945973224</millis>
+  <nanos>245000</nanos>
+  <sequence>35</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.225242Z</date>
+  <millis>1694945973225</millis>
+  <nanos>242000</nanos>
+  <sequence>36</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.226239300Z</date>
+  <millis>1694945973226</millis>
+  <nanos>239300</nanos>
+  <sequence>37</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.227235600Z</date>
+  <millis>1694945973227</millis>
+  <nanos>235600</nanos>
+  <sequence>38</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.228233700Z</date>
+  <millis>1694945973228</millis>
+  <nanos>233700</nanos>
+  <sequence>39</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.230229100Z</date>
+  <millis>1694945973230</millis>
+  <nanos>229100</nanos>
+  <sequence>40</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.235216200Z</date>
+  <millis>1694945973235</millis>
+  <nanos>216200</nanos>
+  <sequence>41</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.240201300Z</date>
+  <millis>1694945973240</millis>
+  <nanos>201300</nanos>
+  <sequence>42</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.243193100Z</date>
+  <millis>1694945973243</millis>
+  <nanos>193100</nanos>
+  <sequence>43</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.245187600Z</date>
+  <millis>1694945973245</millis>
+  <nanos>187600</nanos>
+  <sequence>44</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.247182Z</date>
+  <millis>1694945973247</millis>
+  <nanos>182000</nanos>
+  <sequence>45</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.248180900Z</date>
+  <millis>1694945973248</millis>
+  <nanos>180900</nanos>
+  <sequence>46</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.250174300Z</date>
+  <millis>1694945973250</millis>
+  <nanos>174300</nanos>
+  <sequence>47</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.251171500Z</date>
+  <millis>1694945973251</millis>
+  <nanos>171500</nanos>
+  <sequence>48</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.255161100Z</date>
+  <millis>1694945973255</millis>
+  <nanos>161100</nanos>
+  <sequence>49</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.257156300Z</date>
+  <millis>1694945973257</millis>
+  <nanos>156300</nanos>
+  <sequence>50</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.260147700Z</date>
+  <millis>1694945973260</millis>
+  <nanos>147700</nanos>
+  <sequence>51</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.273114200Z</date>
+  <millis>1694945973273</millis>
+  <nanos>114200</nanos>
+  <sequence>52</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.277102500Z</date>
+  <millis>1694945973277</millis>
+  <nanos>102500</nanos>
+  <sequence>53</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 13</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.285081100Z</date>
+  <millis>1694945973285</millis>
+  <nanos>81100</nanos>
+  <sequence>54</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.287075500Z</date>
+  <millis>1694945973287</millis>
+  <nanos>75500</nanos>
+  <sequence>55</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.290067100Z</date>
+  <millis>1694945973290</millis>
+  <nanos>67100</nanos>
+  <sequence>56</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.292062700Z</date>
+  <millis>1694945973292</millis>
+  <nanos>62700</nanos>
+  <sequence>57</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.740864Z</date>
+  <millis>1694945973740</millis>
+  <nanos>864000</nanos>
+  <sequence>58</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.749839400Z</date>
+  <millis>1694945973749</millis>
+  <nanos>839400</nanos>
+  <sequence>59</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.765795800Z</date>
+  <millis>1694945973765</millis>
+  <nanos>795800</nanos>
+  <sequence>60</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.767789600Z</date>
+  <millis>1694945973767</millis>
+  <nanos>789600</nanos>
+  <sequence>61</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.771779300Z</date>
+  <millis>1694945973771</millis>
+  <nanos>779300</nanos>
+  <sequence>62</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.773773700Z</date>
+  <millis>1694945973773</millis>
+  <nanos>773700</nanos>
+  <sequence>63</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.787736400Z</date>
+  <millis>1694945973787</millis>
+  <nanos>736400</nanos>
+  <sequence>64</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.790728100Z</date>
+  <millis>1694945973790</millis>
+  <nanos>728100</nanos>
+  <sequence>65</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.793720400Z</date>
+  <millis>1694945973793</millis>
+  <nanos>720400</nanos>
+  <sequence>66</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.795714900Z</date>
+  <millis>1694945973795</millis>
+  <nanos>714900</nanos>
+  <sequence>67</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.796712900Z</date>
+  <millis>1694945973796</millis>
+  <nanos>712900</nanos>
+  <sequence>68</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.797710Z</date>
+  <millis>1694945973797</millis>
+  <nanos>710000</nanos>
+  <sequence>69</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.798707300Z</date>
+  <millis>1694945973798</millis>
+  <nanos>707300</nanos>
+  <sequence>70</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.799704700Z</date>
+  <millis>1694945973799</millis>
+  <nanos>704700</nanos>
+  <sequence>71</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.802696700Z</date>
+  <millis>1694945973802</millis>
+  <nanos>696700</nanos>
+  <sequence>72</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.806687Z</date>
+  <millis>1694945973806</millis>
+  <nanos>687000</nanos>
+  <sequence>73</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.807683700Z</date>
+  <millis>1694945973807</millis>
+  <nanos>683700</nanos>
+  <sequence>74</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.807683700Z</date>
+  <millis>1694945973807</millis>
+  <nanos>683700</nanos>
+  <sequence>75</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.850568700Z</date>
+  <millis>1694945973850</millis>
+  <nanos>568700</nanos>
+  <sequence>76</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.855554800Z</date>
+  <millis>1694945973855</millis>
+  <nanos>554800</nanos>
+  <sequence>77</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.856552300Z</date>
+  <millis>1694945973856</millis>
+  <nanos>552300</nanos>
+  <sequence>78</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.858547300Z</date>
+  <millis>1694945973858</millis>
+  <nanos>547300</nanos>
+  <sequence>79</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.859544800Z</date>
+  <millis>1694945973859</millis>
+  <nanos>544800</nanos>
+  <sequence>80</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.862536700Z</date>
+  <millis>1694945973862</millis>
+  <nanos>536700</nanos>
+  <sequence>81</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.866526300Z</date>
+  <millis>1694945973866</millis>
+  <nanos>526300</nanos>
+  <sequence>82</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.912403300Z</date>
+  <millis>1694945973912</millis>
+  <nanos>403300</nanos>
+  <sequence>83</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 8</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:33.978227500Z</date>
+  <millis>1694945973978</millis>
+  <nanos>227500</nanos>
+  <sequence>84</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 21</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.038067200Z</date>
+  <millis>1694945974038</millis>
+  <nanos>67200</nanos>
+  <sequence>85</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 6</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.069982500Z</date>
+  <millis>1694945974069</millis>
+  <nanos>982500</nanos>
+  <sequence>86</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.071976700Z</date>
+  <millis>1694945974071</millis>
+  <nanos>976700</nanos>
+  <sequence>87</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.073970500Z</date>
+  <millis>1694945974073</millis>
+  <nanos>970500</nanos>
+  <sequence>88</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.075965400Z</date>
+  <millis>1694945974075</millis>
+  <nanos>965400</nanos>
+  <sequence>89</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.079955Z</date>
+  <millis>1694945974079</millis>
+  <nanos>955000</nanos>
+  <sequence>90</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.083944200Z</date>
+  <millis>1694945974083</millis>
+  <nanos>944200</nanos>
+  <sequence>91</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.089928100Z</date>
+  <millis>1694945974089</millis>
+  <nanos>928100</nanos>
+  <sequence>92</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.091923100Z</date>
+  <millis>1694945974091</millis>
+  <nanos>923100</nanos>
+  <sequence>93</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.092920500Z</date>
+  <millis>1694945974092</millis>
+  <nanos>920500</nanos>
+  <sequence>94</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.093917300Z</date>
+  <millis>1694945974093</millis>
+  <nanos>917300</nanos>
+  <sequence>95</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.100899100Z</date>
+  <millis>1694945974100</millis>
+  <nanos>899100</nanos>
+  <sequence>96</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.102893900Z</date>
+  <millis>1694945974102</millis>
+  <nanos>893900</nanos>
+  <sequence>97</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.109875100Z</date>
+  <millis>1694945974109</millis>
+  <nanos>875100</nanos>
+  <sequence>98</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.110873800Z</date>
+  <millis>1694945974110</millis>
+  <nanos>873800</nanos>
+  <sequence>99</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.112867600Z</date>
+  <millis>1694945974112</millis>
+  <nanos>867600</nanos>
+  <sequence>100</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.114862400Z</date>
+  <millis>1694945974114</millis>
+  <nanos>862400</nanos>
+  <sequence>101</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.115859600Z</date>
+  <millis>1694945974115</millis>
+  <nanos>859600</nanos>
+  <sequence>102</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.117853600Z</date>
+  <millis>1694945974117</millis>
+  <nanos>853600</nanos>
+  <sequence>103</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.119848300Z</date>
+  <millis>1694945974119</millis>
+  <nanos>848300</nanos>
+  <sequence>104</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.119848300Z</date>
+  <millis>1694945974119</millis>
+  <nanos>848300</nanos>
+  <sequence>105</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.120846400Z</date>
+  <millis>1694945974120</millis>
+  <nanos>846400</nanos>
+  <sequence>106</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.123838600Z</date>
+  <millis>1694945974123</millis>
+  <nanos>838600</nanos>
+  <sequence>107</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.124835700Z</date>
+  <millis>1694945974124</millis>
+  <nanos>835700</nanos>
+  <sequence>108</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.125832700Z</date>
+  <millis>1694945974125</millis>
+  <nanos>832700</nanos>
+  <sequence>109</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.126829800Z</date>
+  <millis>1694945974126</millis>
+  <nanos>829800</nanos>
+  <sequence>110</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.126829800Z</date>
+  <millis>1694945974126</millis>
+  <nanos>829800</nanos>
+  <sequence>111</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.127827600Z</date>
+  <millis>1694945974127</millis>
+  <nanos>827600</nanos>
+  <sequence>112</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.128824700Z</date>
+  <millis>1694945974128</millis>
+  <nanos>824700</nanos>
+  <sequence>113</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.129821600Z</date>
+  <millis>1694945974129</millis>
+  <nanos>821600</nanos>
+  <sequence>114</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.134808500Z</date>
+  <millis>1694945974134</millis>
+  <nanos>808500</nanos>
+  <sequence>115</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 8</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.135805700Z</date>
+  <millis>1694945974135</millis>
+  <nanos>805700</nanos>
+  <sequence>116</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.141789500Z</date>
+  <millis>1694945974141</millis>
+  <nanos>789500</nanos>
+  <sequence>117</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.142787Z</date>
+  <millis>1694945974142</millis>
+  <nanos>787000</nanos>
+  <sequence>118</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.143784400Z</date>
+  <millis>1694945974143</millis>
+  <nanos>784400</nanos>
+  <sequence>119</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.146776Z</date>
+  <millis>1694945974146</millis>
+  <nanos>776000</nanos>
+  <sequence>120</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.146776Z</date>
+  <millis>1694945974146</millis>
+  <nanos>776000</nanos>
+  <sequence>121</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.147774300Z</date>
+  <millis>1694945974147</millis>
+  <nanos>774300</nanos>
+  <sequence>122</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.152760500Z</date>
+  <millis>1694945974152</millis>
+  <nanos>760500</nanos>
+  <sequence>123</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.154755500Z</date>
+  <millis>1694945974154</millis>
+  <nanos>755500</nanos>
+  <sequence>124</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.157747500Z</date>
+  <millis>1694945974157</millis>
+  <nanos>747500</nanos>
+  <sequence>125</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.161736200Z</date>
+  <millis>1694945974161</millis>
+  <nanos>736200</nanos>
+  <sequence>126</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.182681400Z</date>
+  <millis>1694945974182</millis>
+  <nanos>681400</nanos>
+  <sequence>127</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.209608700Z</date>
+  <millis>1694945974209</millis>
+  <nanos>608700</nanos>
+  <sequence>128</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.210606800Z</date>
+  <millis>1694945974210</millis>
+  <nanos>606800</nanos>
+  <sequence>129</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.211603800Z</date>
+  <millis>1694945974211</millis>
+  <nanos>603800</nanos>
+  <sequence>130</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.211603800Z</date>
+  <millis>1694945974211</millis>
+  <nanos>603800</nanos>
+  <sequence>131</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.212600900Z</date>
+  <millis>1694945974212</millis>
+  <nanos>600900</nanos>
+  <sequence>132</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.212600900Z</date>
+  <millis>1694945974212</millis>
+  <nanos>600900</nanos>
+  <sequence>133</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.213597900Z</date>
+  <millis>1694945974213</millis>
+  <nanos>597900</nanos>
+  <sequence>134</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 13</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.213597900Z</date>
+  <millis>1694945974213</millis>
+  <nanos>597900</nanos>
+  <sequence>135</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 34</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.214595Z</date>
+  <millis>1694945974214</millis>
+  <nanos>595000</nanos>
+  <sequence>136</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 7</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.214595Z</date>
+  <millis>1694945974214</millis>
+  <nanos>595000</nanos>
+  <sequence>137</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 6</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.218584500Z</date>
+  <millis>1694945974218</millis>
+  <nanos>584500</nanos>
+  <sequence>138</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.219582700Z</date>
+  <millis>1694945974219</millis>
+  <nanos>582700</nanos>
+  <sequence>139</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.219582700Z</date>
+  <millis>1694945974219</millis>
+  <nanos>582700</nanos>
+  <sequence>140</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.220579300Z</date>
+  <millis>1694945974220</millis>
+  <nanos>579300</nanos>
+  <sequence>141</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.220579300Z</date>
+  <millis>1694945974220</millis>
+  <nanos>579300</nanos>
+  <sequence>142</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.221577Z</date>
+  <millis>1694945974221</millis>
+  <nanos>577000</nanos>
+  <sequence>143</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.221577Z</date>
+  <millis>1694945974221</millis>
+  <nanos>577000</nanos>
+  <sequence>144</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.222575100Z</date>
+  <millis>1694945974222</millis>
+  <nanos>575100</nanos>
+  <sequence>145</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.222575100Z</date>
+  <millis>1694945974222</millis>
+  <nanos>575100</nanos>
+  <sequence>146</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.223571500Z</date>
+  <millis>1694945974223</millis>
+  <nanos>571500</nanos>
+  <sequence>147</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.223571500Z</date>
+  <millis>1694945974223</millis>
+  <nanos>571500</nanos>
+  <sequence>148</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.224568300Z</date>
+  <millis>1694945974224</millis>
+  <nanos>568300</nanos>
+  <sequence>149</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.224568300Z</date>
+  <millis>1694945974224</millis>
+  <nanos>568300</nanos>
+  <sequence>150</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.225565600Z</date>
+  <millis>1694945974225</millis>
+  <nanos>565600</nanos>
+  <sequence>151</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.225565600Z</date>
+  <millis>1694945974225</millis>
+  <nanos>565600</nanos>
+  <sequence>152</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.225565600Z</date>
+  <millis>1694945974225</millis>
+  <nanos>565600</nanos>
+  <sequence>153</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.226562800Z</date>
+  <millis>1694945974226</millis>
+  <nanos>562800</nanos>
+  <sequence>154</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.226562800Z</date>
+  <millis>1694945974226</millis>
+  <nanos>562800</nanos>
+  <sequence>155</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.227560100Z</date>
+  <millis>1694945974227</millis>
+  <nanos>560100</nanos>
+  <sequence>156</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.228557800Z</date>
+  <millis>1694945974228</millis>
+  <nanos>557800</nanos>
+  <sequence>157</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.228557800Z</date>
+  <millis>1694945974228</millis>
+  <nanos>557800</nanos>
+  <sequence>158</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.229555100Z</date>
+  <millis>1694945974229</millis>
+  <nanos>555100</nanos>
+  <sequence>159</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.229555100Z</date>
+  <millis>1694945974229</millis>
+  <nanos>555100</nanos>
+  <sequence>160</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.229555100Z</date>
+  <millis>1694945974229</millis>
+  <nanos>555100</nanos>
+  <sequence>161</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.230552200Z</date>
+  <millis>1694945974230</millis>
+  <nanos>552200</nanos>
+  <sequence>162</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.230552200Z</date>
+  <millis>1694945974230</millis>
+  <nanos>552200</nanos>
+  <sequence>163</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.230552200Z</date>
+  <millis>1694945974230</millis>
+  <nanos>552200</nanos>
+  <sequence>164</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.232546400Z</date>
+  <millis>1694945974232</millis>
+  <nanos>546400</nanos>
+  <sequence>165</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.233544900Z</date>
+  <millis>1694945974233</millis>
+  <nanos>544900</nanos>
+  <sequence>166</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.234541800Z</date>
+  <millis>1694945974234</millis>
+  <nanos>541800</nanos>
+  <sequence>167</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 8</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.235538700Z</date>
+  <millis>1694945974235</millis>
+  <nanos>538700</nanos>
+  <sequence>168</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.236536300Z</date>
+  <millis>1694945974236</millis>
+  <nanos>536300</nanos>
+  <sequence>169</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.236536300Z</date>
+  <millis>1694945974236</millis>
+  <nanos>536300</nanos>
+  <sequence>170</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.236536300Z</date>
+  <millis>1694945974236</millis>
+  <nanos>536300</nanos>
+  <sequence>171</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.237533800Z</date>
+  <millis>1694945974237</millis>
+  <nanos>533800</nanos>
+  <sequence>172</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.238533100Z</date>
+  <millis>1694945974238</millis>
+  <nanos>533100</nanos>
+  <sequence>173</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.238533100Z</date>
+  <millis>1694945974238</millis>
+  <nanos>533100</nanos>
+  <sequence>174</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.238533100Z</date>
+  <millis>1694945974238</millis>
+  <nanos>533100</nanos>
+  <sequence>175</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.239528500Z</date>
+  <millis>1694945974239</millis>
+  <nanos>528500</nanos>
+  <sequence>176</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.239528500Z</date>
+  <millis>1694945974239</millis>
+  <nanos>528500</nanos>
+  <sequence>177</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.240526Z</date>
+  <millis>1694945974240</millis>
+  <nanos>526000</nanos>
+  <sequence>178</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.240526Z</date>
+  <millis>1694945974240</millis>
+  <nanos>526000</nanos>
+  <sequence>179</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.240526Z</date>
+  <millis>1694945974240</millis>
+  <nanos>526000</nanos>
+  <sequence>180</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.241523Z</date>
+  <millis>1694945974241</millis>
+  <nanos>523000</nanos>
+  <sequence>181</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.241523Z</date>
+  <millis>1694945974241</millis>
+  <nanos>523000</nanos>
+  <sequence>182</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.242521900Z</date>
+  <millis>1694945974242</millis>
+  <nanos>521900</nanos>
+  <sequence>183</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.242521900Z</date>
+  <millis>1694945974242</millis>
+  <nanos>521900</nanos>
+  <sequence>184</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.242521900Z</date>
+  <millis>1694945974242</millis>
+  <nanos>521900</nanos>
+  <sequence>185</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.243518200Z</date>
+  <millis>1694945974243</millis>
+  <nanos>518200</nanos>
+  <sequence>186</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 13</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.243518200Z</date>
+  <millis>1694945974243</millis>
+  <nanos>518200</nanos>
+  <sequence>187</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.244514900Z</date>
+  <millis>1694945974244</millis>
+  <nanos>514900</nanos>
+  <sequence>188</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.244514900Z</date>
+  <millis>1694945974244</millis>
+  <nanos>514900</nanos>
+  <sequence>189</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.244514900Z</date>
+  <millis>1694945974244</millis>
+  <nanos>514900</nanos>
+  <sequence>190</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.245512900Z</date>
+  <millis>1694945974245</millis>
+  <nanos>512900</nanos>
+  <sequence>191</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.245512900Z</date>
+  <millis>1694945974245</millis>
+  <nanos>512900</nanos>
+  <sequence>192</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.246509500Z</date>
+  <millis>1694945974246</millis>
+  <nanos>509500</nanos>
+  <sequence>193</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.247509200Z</date>
+  <millis>1694945974247</millis>
+  <nanos>509200</nanos>
+  <sequence>194</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.248504200Z</date>
+  <millis>1694945974248</millis>
+  <nanos>504200</nanos>
+  <sequence>195</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.249502700Z</date>
+  <millis>1694945974249</millis>
+  <nanos>502700</nanos>
+  <sequence>196</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.250498600Z</date>
+  <millis>1694945974250</millis>
+  <nanos>498600</nanos>
+  <sequence>197</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.250498600Z</date>
+  <millis>1694945974250</millis>
+  <nanos>498600</nanos>
+  <sequence>198</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.250498600Z</date>
+  <millis>1694945974250</millis>
+  <nanos>498600</nanos>
+  <sequence>199</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.251496100Z</date>
+  <millis>1694945974251</millis>
+  <nanos>496100</nanos>
+  <sequence>200</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.251496100Z</date>
+  <millis>1694945974251</millis>
+  <nanos>496100</nanos>
+  <sequence>201</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.252493500Z</date>
+  <millis>1694945974252</millis>
+  <nanos>493500</nanos>
+  <sequence>202</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.252493500Z</date>
+  <millis>1694945974252</millis>
+  <nanos>493500</nanos>
+  <sequence>203</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.252493500Z</date>
+  <millis>1694945974252</millis>
+  <nanos>493500</nanos>
+  <sequence>204</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.253491300Z</date>
+  <millis>1694945974253</millis>
+  <nanos>491300</nanos>
+  <sequence>205</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.253491300Z</date>
+  <millis>1694945974253</millis>
+  <nanos>491300</nanos>
+  <sequence>206</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.254488400Z</date>
+  <millis>1694945974254</millis>
+  <nanos>488400</nanos>
+  <sequence>207</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.254488400Z</date>
+  <millis>1694945974254</millis>
+  <nanos>488400</nanos>
+  <sequence>208</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.255485900Z</date>
+  <millis>1694945974255</millis>
+  <nanos>485900</nanos>
+  <sequence>209</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.255485900Z</date>
+  <millis>1694945974255</millis>
+  <nanos>485900</nanos>
+  <sequence>210</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.256482700Z</date>
+  <millis>1694945974256</millis>
+  <nanos>482700</nanos>
+  <sequence>211</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.256482700Z</date>
+  <millis>1694945974256</millis>
+  <nanos>482700</nanos>
+  <sequence>212</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.257480500Z</date>
+  <millis>1694945974257</millis>
+  <nanos>480500</nanos>
+  <sequence>213</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.257480500Z</date>
+  <millis>1694945974257</millis>
+  <nanos>480500</nanos>
+  <sequence>214</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.257480500Z</date>
+  <millis>1694945974257</millis>
+  <nanos>480500</nanos>
+  <sequence>215</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.258478200Z</date>
+  <millis>1694945974258</millis>
+  <nanos>478200</nanos>
+  <sequence>216</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 8</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.258478200Z</date>
+  <millis>1694945974258</millis>
+  <nanos>478200</nanos>
+  <sequence>217</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 21</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.258478200Z</date>
+  <millis>1694945974258</millis>
+  <nanos>478200</nanos>
+  <sequence>218</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 55</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.259475200Z</date>
+  <millis>1694945974259</millis>
+  <nanos>475200</nanos>
+  <sequence>219</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 8</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.259475200Z</date>
+  <millis>1694945974259</millis>
+  <nanos>475200</nanos>
+  <sequence>220</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 7</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.259475200Z</date>
+  <millis>1694945974259</millis>
+  <nanos>475200</nanos>
+  <sequence>221</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 6</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.260472400Z</date>
+  <millis>1694945974260</millis>
+  <nanos>472400</nanos>
+  <sequence>222</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.260472400Z</date>
+  <millis>1694945974260</millis>
+  <nanos>472400</nanos>
+  <sequence>223</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.260472400Z</date>
+  <millis>1694945974260</millis>
+  <nanos>472400</nanos>
+  <sequence>224</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.261469500Z</date>
+  <millis>1694945974261</millis>
+  <nanos>469500</nanos>
+  <sequence>225</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.262467600Z</date>
+  <millis>1694945974262</millis>
+  <nanos>467600</nanos>
+  <sequence>226</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.263464400Z</date>
+  <millis>1694945974263</millis>
+  <nanos>464400</nanos>
+  <sequence>227</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.264463700Z</date>
+  <millis>1694945974264</millis>
+  <nanos>463700</nanos>
+  <sequence>228</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.264463700Z</date>
+  <millis>1694945974264</millis>
+  <nanos>463700</nanos>
+  <sequence>229</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.265459300Z</date>
+  <millis>1694945974265</millis>
+  <nanos>459300</nanos>
+  <sequence>230</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.266456700Z</date>
+  <millis>1694945974266</millis>
+  <nanos>456700</nanos>
+  <sequence>231</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.267453500Z</date>
+  <millis>1694945974267</millis>
+  <nanos>453500</nanos>
+  <sequence>232</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.267453500Z</date>
+  <millis>1694945974267</millis>
+  <nanos>453500</nanos>
+  <sequence>233</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.268450400Z</date>
+  <millis>1694945974268</millis>
+  <nanos>450400</nanos>
+  <sequence>234</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.268450400Z</date>
+  <millis>1694945974268</millis>
+  <nanos>450400</nanos>
+  <sequence>235</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.269449100Z</date>
+  <millis>1694945974269</millis>
+  <nanos>449100</nanos>
+  <sequence>236</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.270445900Z</date>
+  <millis>1694945974270</millis>
+  <nanos>445900</nanos>
+  <sequence>237</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.270445900Z</date>
+  <millis>1694945974270</millis>
+  <nanos>445900</nanos>
+  <sequence>238</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.271443300Z</date>
+  <millis>1694945974271</millis>
+  <nanos>443300</nanos>
+  <sequence>239</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.272442Z</date>
+  <millis>1694945974272</millis>
+  <nanos>442000</nanos>
+  <sequence>240</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.272442Z</date>
+  <millis>1694945974272</millis>
+  <nanos>442000</nanos>
+  <sequence>241</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.273438300Z</date>
+  <millis>1694945974273</millis>
+  <nanos>438300</nanos>
+  <sequence>242</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.273438300Z</date>
+  <millis>1694945974273</millis>
+  <nanos>438300</nanos>
+  <sequence>243</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.274435700Z</date>
+  <millis>1694945974274</millis>
+  <nanos>435700</nanos>
+  <sequence>244</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.274435700Z</date>
+  <millis>1694945974274</millis>
+  <nanos>435700</nanos>
+  <sequence>245</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.274435700Z</date>
+  <millis>1694945974274</millis>
+  <nanos>435700</nanos>
+  <sequence>246</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.275433Z</date>
+  <millis>1694945974275</millis>
+  <nanos>433000</nanos>
+  <sequence>247</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.275433Z</date>
+  <millis>1694945974275</millis>
+  <nanos>433000</nanos>
+  <sequence>248</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.278425100Z</date>
+  <millis>1694945974278</millis>
+  <nanos>425100</nanos>
+  <sequence>249</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.279423900Z</date>
+  <millis>1694945974279</millis>
+  <nanos>423900</nanos>
+  <sequence>250</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.280419500Z</date>
+  <millis>1694945974280</millis>
+  <nanos>419500</nanos>
+  <sequence>251</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 8</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.280419500Z</date>
+  <millis>1694945974280</millis>
+  <nanos>419500</nanos>
+  <sequence>252</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.282414100Z</date>
+  <millis>1694945974282</millis>
+  <nanos>414100</nanos>
+  <sequence>253</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.285407100Z</date>
+  <millis>1694945974285</millis>
+  <nanos>407100</nanos>
+  <sequence>254</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.287400300Z</date>
+  <millis>1694945974287</millis>
+  <nanos>400300</nanos>
+  <sequence>255</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.289394800Z</date>
+  <millis>1694945974289</millis>
+  <nanos>394800</nanos>
+  <sequence>256</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.290392400Z</date>
+  <millis>1694945974290</millis>
+  <nanos>392400</nanos>
+  <sequence>257</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.290392400Z</date>
+  <millis>1694945974290</millis>
+  <nanos>392400</nanos>
+  <sequence>258</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.290392400Z</date>
+  <millis>1694945974290</millis>
+  <nanos>392400</nanos>
+  <sequence>259</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.291389800Z</date>
+  <millis>1694945974291</millis>
+  <nanos>389800</nanos>
+  <sequence>260</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.291389800Z</date>
+  <millis>1694945974291</millis>
+  <nanos>389800</nanos>
+  <sequence>261</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.291389800Z</date>
+  <millis>1694945974291</millis>
+  <nanos>389800</nanos>
+  <sequence>262</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.291389800Z</date>
+  <millis>1694945974291</millis>
+  <nanos>389800</nanos>
+  <sequence>263</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.292388Z</date>
+  <millis>1694945974292</millis>
+  <nanos>388000</nanos>
+  <sequence>264</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.293385800Z</date>
+  <millis>1694945974293</millis>
+  <nanos>385800</nanos>
+  <sequence>265</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.293385800Z</date>
+  <millis>1694945974293</millis>
+  <nanos>385800</nanos>
+  <sequence>266</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.294381900Z</date>
+  <millis>1694945974294</millis>
+  <nanos>381900</nanos>
+  <sequence>267</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.294381900Z</date>
+  <millis>1694945974294</millis>
+  <nanos>381900</nanos>
+  <sequence>268</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.295379800Z</date>
+  <millis>1694945974295</millis>
+  <nanos>379800</nanos>
+  <sequence>269</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.295379800Z</date>
+  <millis>1694945974295</millis>
+  <nanos>379800</nanos>
+  <sequence>270</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 13</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.295379800Z</date>
+  <millis>1694945974295</millis>
+  <nanos>379800</nanos>
+  <sequence>271</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.296376500Z</date>
+  <millis>1694945974296</millis>
+  <nanos>376500</nanos>
+  <sequence>272</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.296376500Z</date>
+  <millis>1694945974296</millis>
+  <nanos>376500</nanos>
+  <sequence>273</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.296376500Z</date>
+  <millis>1694945974296</millis>
+  <nanos>376500</nanos>
+  <sequence>274</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.296376500Z</date>
+  <millis>1694945974296</millis>
+  <nanos>376500</nanos>
+  <sequence>275</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.297373400Z</date>
+  <millis>1694945974297</millis>
+  <nanos>373400</nanos>
+  <sequence>276</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.297373400Z</date>
+  <millis>1694945974297</millis>
+  <nanos>373400</nanos>
+  <sequence>277</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.297373400Z</date>
+  <millis>1694945974297</millis>
+  <nanos>373400</nanos>
+  <sequence>278</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.297373400Z</date>
+  <millis>1694945974297</millis>
+  <nanos>373400</nanos>
+  <sequence>279</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.298371700Z</date>
+  <millis>1694945974298</millis>
+  <nanos>371700</nanos>
+  <sequence>280</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.298371700Z</date>
+  <millis>1694945974298</millis>
+  <nanos>371700</nanos>
+  <sequence>281</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.298371700Z</date>
+  <millis>1694945974298</millis>
+  <nanos>371700</nanos>
+  <sequence>282</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.299368700Z</date>
+  <millis>1694945974299</millis>
+  <nanos>368700</nanos>
+  <sequence>283</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.299368700Z</date>
+  <millis>1694945974299</millis>
+  <nanos>368700</nanos>
+  <sequence>284</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.300365700Z</date>
+  <millis>1694945974300</millis>
+  <nanos>365700</nanos>
+  <sequence>285</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.300365700Z</date>
+  <millis>1694945974300</millis>
+  <nanos>365700</nanos>
+  <sequence>286</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.300365700Z</date>
+  <millis>1694945974300</millis>
+  <nanos>365700</nanos>
+  <sequence>287</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.301362900Z</date>
+  <millis>1694945974301</millis>
+  <nanos>362900</nanos>
+  <sequence>288</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.301362900Z</date>
+  <millis>1694945974301</millis>
+  <nanos>362900</nanos>
+  <sequence>289</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.301362900Z</date>
+  <millis>1694945974301</millis>
+  <nanos>362900</nanos>
+  <sequence>290</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.301362900Z</date>
+  <millis>1694945974301</millis>
+  <nanos>362900</nanos>
+  <sequence>291</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.302361600Z</date>
+  <millis>1694945974302</millis>
+  <nanos>361600</nanos>
+  <sequence>292</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.302361600Z</date>
+  <millis>1694945974302</millis>
+  <nanos>361600</nanos>
+  <sequence>293</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.302361600Z</date>
+  <millis>1694945974302</millis>
+  <nanos>361600</nanos>
+  <sequence>294</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.303357800Z</date>
+  <millis>1694945974303</millis>
+  <nanos>357800</nanos>
+  <sequence>295</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.303357800Z</date>
+  <millis>1694945974303</millis>
+  <nanos>357800</nanos>
+  <sequence>296</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.303357800Z</date>
+  <millis>1694945974303</millis>
+  <nanos>357800</nanos>
+  <sequence>297</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.304355Z</date>
+  <millis>1694945974304</millis>
+  <nanos>355000</nanos>
+  <sequence>298</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.304355Z</date>
+  <millis>1694945974304</millis>
+  <nanos>355000</nanos>
+  <sequence>299</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.304355Z</date>
+  <millis>1694945974304</millis>
+  <nanos>355000</nanos>
+  <sequence>300</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 8</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.304355Z</date>
+  <millis>1694945974304</millis>
+  <nanos>355000</nanos>
+  <sequence>301</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 21</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.305352400Z</date>
+  <millis>1694945974305</millis>
+  <nanos>352400</nanos>
+  <sequence>302</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 6</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.305352400Z</date>
+  <millis>1694945974305</millis>
+  <nanos>352400</nanos>
+  <sequence>303</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.306350100Z</date>
+  <millis>1694945974306</millis>
+  <nanos>350100</nanos>
+  <sequence>304</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.306350100Z</date>
+  <millis>1694945974306</millis>
+  <nanos>350100</nanos>
+  <sequence>305</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.306350100Z</date>
+  <millis>1694945974306</millis>
+  <nanos>350100</nanos>
+  <sequence>306</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.306350100Z</date>
+  <millis>1694945974306</millis>
+  <nanos>350100</nanos>
+  <sequence>307</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.307347400Z</date>
+  <millis>1694945974307</millis>
+  <nanos>347400</nanos>
+  <sequence>308</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.308344300Z</date>
+  <millis>1694945974308</millis>
+  <nanos>344300</nanos>
+  <sequence>309</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.308344300Z</date>
+  <millis>1694945974308</millis>
+  <nanos>344300</nanos>
+  <sequence>310</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.309342Z</date>
+  <millis>1694945974309</millis>
+  <nanos>342000</nanos>
+  <sequence>311</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.310340700Z</date>
+  <millis>1694945974310</millis>
+  <nanos>340700</nanos>
+  <sequence>312</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.310340700Z</date>
+  <millis>1694945974310</millis>
+  <nanos>340700</nanos>
+  <sequence>313</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.310340700Z</date>
+  <millis>1694945974310</millis>
+  <nanos>340700</nanos>
+  <sequence>314</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.311336100Z</date>
+  <millis>1694945974311</millis>
+  <nanos>336100</nanos>
+  <sequence>315</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.311336100Z</date>
+  <millis>1694945974311</millis>
+  <nanos>336100</nanos>
+  <sequence>316</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.311336100Z</date>
+  <millis>1694945974311</millis>
+  <nanos>336100</nanos>
+  <sequence>317</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.312334Z</date>
+  <millis>1694945974312</millis>
+  <nanos>334000</nanos>
+  <sequence>318</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.312334Z</date>
+  <millis>1694945974312</millis>
+  <nanos>334000</nanos>
+  <sequence>319</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.312334Z</date>
+  <millis>1694945974312</millis>
+  <nanos>334000</nanos>
+  <sequence>320</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.312334Z</date>
+  <millis>1694945974312</millis>
+  <nanos>334000</nanos>
+  <sequence>321</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.313331200Z</date>
+  <millis>1694945974313</millis>
+  <nanos>331200</nanos>
+  <sequence>322</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.313331200Z</date>
+  <millis>1694945974313</millis>
+  <nanos>331200</nanos>
+  <sequence>323</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.313331200Z</date>
+  <millis>1694945974313</millis>
+  <nanos>331200</nanos>
+  <sequence>324</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.314328Z</date>
+  <millis>1694945974314</millis>
+  <nanos>328000</nanos>
+  <sequence>325</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.314328Z</date>
+  <millis>1694945974314</millis>
+  <nanos>328000</nanos>
+  <sequence>326</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.314328Z</date>
+  <millis>1694945974314</millis>
+  <nanos>328000</nanos>
+  <sequence>327</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.314328Z</date>
+  <millis>1694945974314</millis>
+  <nanos>328000</nanos>
+  <sequence>328</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.315326Z</date>
+  <millis>1694945974315</millis>
+  <nanos>326000</nanos>
+  <sequence>329</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.316323100Z</date>
+  <millis>1694945974316</millis>
+  <nanos>323100</nanos>
+  <sequence>330</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.316323100Z</date>
+  <millis>1694945974316</millis>
+  <nanos>323100</nanos>
+  <sequence>331</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.317320400Z</date>
+  <millis>1694945974317</millis>
+  <nanos>320400</nanos>
+  <sequence>332</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 8</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.317320400Z</date>
+  <millis>1694945974317</millis>
+  <nanos>320400</nanos>
+  <sequence>333</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 4</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.317320400Z</date>
+  <millis>1694945974317</millis>
+  <nanos>320400</nanos>
+  <sequence>334</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.318318300Z</date>
+  <millis>1694945974318</millis>
+  <nanos>318300</nanos>
+  <sequence>335</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.318318300Z</date>
+  <millis>1694945974318</millis>
+  <nanos>318300</nanos>
+  <sequence>336</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.318318300Z</date>
+  <millis>1694945974318</millis>
+  <nanos>318300</nanos>
+  <sequence>337</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.319314400Z</date>
+  <millis>1694945974319</millis>
+  <nanos>314400</nanos>
+  <sequence>338</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.319314400Z</date>
+  <millis>1694945974319</millis>
+  <nanos>314400</nanos>
+  <sequence>339</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.319314400Z</date>
+  <millis>1694945974319</millis>
+  <nanos>314400</nanos>
+  <sequence>340</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.319314400Z</date>
+  <millis>1694945974319</millis>
+  <nanos>314400</nanos>
+  <sequence>341</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.320312200Z</date>
+  <millis>1694945974320</millis>
+  <nanos>312200</nanos>
+  <sequence>342</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.320312200Z</date>
+  <millis>1694945974320</millis>
+  <nanos>312200</nanos>
+  <sequence>343</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 3</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.320312200Z</date>
+  <millis>1694945974320</millis>
+  <nanos>312200</nanos>
+  <sequence>344</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.321310Z</date>
+  <millis>1694945974321</millis>
+  <nanos>310000</nanos>
+  <sequence>345</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.321310Z</date>
+  <millis>1694945974321</millis>
+  <nanos>310000</nanos>
+  <sequence>346</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.321310Z</date>
+  <millis>1694945974321</millis>
+  <nanos>310000</nanos>
+  <sequence>347</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>ENTRY 0</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.322306900Z</date>
+  <millis>1694945974322</millis>
+  <nanos>306900</nanos>
+  <sequence>348</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 1</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.322306900Z</date>
+  <millis>1694945974322</millis>
+  <nanos>306900</nanos>
+  <sequence>349</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 2</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.322306900Z</date>
+  <millis>1694945974322</millis>
+  <nanos>306900</nanos>
+  <sequence>350</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 5</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.322306900Z</date>
+  <millis>1694945974322</millis>
+  <nanos>306900</nanos>
+  <sequence>351</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 13</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.323304Z</date>
+  <millis>1694945974323</millis>
+  <nanos>304000</nanos>
+  <sequence>352</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 34</message>
+</record>
+<record>
+  <date>2023-09-17T10:19:34.324303600Z</date>
+  <millis>1694945974324</millis>
+  <nanos>303600</nanos>
+  <sequence>353</sequence>
+  <logger>Main</logger>
+  <level>FINER</level>
+  <class>Main</class>
+  <method>fib</method>
+  <thread>1</thread>
+  <message>RETURN 89</message>
+</record>
+</log>

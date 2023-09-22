@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-18T10:46:03.549859800Z</date>
+  <millis>1695033963549</millis>
+  <nanos>859800</nanos>
+  <sequence>0</sequence>
+  <logger>com.nick.app.Data</logger>
+  <level>INFO</level>
+  <class>com.nick.app.Data</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Data accessed</message>
+</record>
+</log>
